@@ -1,0 +1,27 @@
+html {
+    background-color:lightslategray;
+    text-align: center;
+}
+
+p {
+    margin-top: 20px;
+}
+
+.avatar {
+    width: 200px;
+    height: 250px;
+}
+
+.info {
+    width: 750px;
+    background-color: #fff;
+    max-width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
